@@ -9,8 +9,8 @@ Out of 101 patients monitored, **13 were flagged for clinical review** and **1 i
 
 ## Report Preview
 
-![Data Quality Alerts](images/report_screenshot.png)
-![Priority Patients](images/report_screenshot1.png)
+![Data Quality Alerts](Images/report_screenshot.png)
+![Priority Patients](Images/report_screenshot1.png)
 
 ---
 
